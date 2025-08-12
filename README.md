@@ -2,7 +2,7 @@
 
 CÓDIGOS E COMANDOS DO NODE
 
-npm install
+npm install;
 npm i nodemon -g
 
 rodar servidor: nodemon server.js
