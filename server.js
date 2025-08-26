@@ -32,5 +32,5 @@ app.post('/cadastro',async (req,res)=>{
 
 //PORTA LOCAL DO SERVIDOR
 app.listen(3000,()=>{
-    console.log('SERVIDOR RODANDO!')
+    console.log('SERVIDOR RODANDO.')
 })
