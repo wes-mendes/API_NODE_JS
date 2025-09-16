@@ -25,7 +25,7 @@ app.put('/cadastro/:id', async (req,res)=>{
         }
     })
 
-    res.status(201).json({"message":"Cliente atualizado!"})
+    res.status(201).json({"message":"Cliente atualizado com sucesso!"})
 })
 
 app.delete('/cadastro/:id', async (req,res)=>{
